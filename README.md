@@ -23,17 +23,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <h2 align="right">1.4. HOW TO USE </h2>
 
-CASE EXPLANATION 1 📌
+📌 CASE EXPLANATION 1
 ```python
 code
 ```
 
-CASE EXPLANATION 2 📌
+📌 CASE EXPLANATION 2
 ```java
 code
 ```
 
-CASE EXPLANATION 3 📌
+📌 CASE EXPLANATION 3
 ```js
 code
 ```
