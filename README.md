@@ -1,3 +1,12 @@
+<!-- Caracter Icon -->
+──────▄▀▄─────▄▀▄  
+─────▄█░░▀▀▀▀▀░░█▄  
+─▄▄──█░░░░░░░░░░░█──▄▄  
+█▄▄█─█░░▀░░┬░░▀░░█─█▄▄█  
+
+<!-- Animated img -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=120&section=header"/>
+
 <!-- Animated text -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=FF00FF&size=35&center=true&width=290&lines=PROJECT+NAME"/>
@@ -17,7 +26,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-[Mais...](https://github.com/Ileriayo/markdown-badges)
+[More...](https://github.com/Ileriayo/markdown-badges)
 
 <h2 align="right">1.4. HOW TO USE </h2>
 <p align="right">Utilize os comandos seguintes dando <kbd>CTRL</kbd>+<kbd>V</kbd> no terminal e/ou console.</p>
@@ -36,3 +45,16 @@ code
 ```js
 code
 ```
+
+<h2 align="right">1.5. OTHER REPOSITORIES 📘</h2>
+
+<div>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=IvanilsoDaSilva&repo=iff-bsi"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=IvanilsoDaSilva&repo=udemy-introducao-python"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=IvanilsoDaSilva&repo=iff-ti"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=IvanilsoDaSilva&repo=git"/>
+</div>
+<a href="https://github.com/IvanilsoDaSilva?tab=repositories">More...</a>
+
+<!-- Animated img -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=120&section=footer"/>
