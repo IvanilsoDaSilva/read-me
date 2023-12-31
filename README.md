@@ -7,7 +7,7 @@
 <!-- Animated img -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=120&section=header"/>
 
-[Link para a Seção Interessante](#1.3.-technologies-💻)
+[Link para a Seção Interessante](#1.3.-technologies)
 
 <!-- Animated text -->
 <div align="center">
